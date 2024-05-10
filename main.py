@@ -76,7 +76,7 @@ def open_new_window(caminho: str):
         [sg.Text("", key='-OUTPUT9-')]
     ]
 
-    window = sg.Window("Nova Janela", layout, finalize=True)
+    window = sg.Window("Correção", layout, finalize=True)
 
     with os.scandir(caminho) as pastas:
         for pasta in pastas:
@@ -146,7 +146,7 @@ layout = [
     [sg.Text("", key='-OUTPUT8-')]
 ]
 
-window = sg.Window("App", layout, return_keyboard_events=True, size=(400, 200))
+window = sg.Window("Estudi-IA", layout, return_keyboard_events=True, size=(400, 200))
 
 
 while True:
