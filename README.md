@@ -6,7 +6,7 @@
 
 Esse é um projeto feito para o desafio da imersão da [Alura](https://www.alura.com.br/) em parceria com a [Google](https://www.google.com.br/) e a [FIAP](https://www.fiap.com.br/).
 
-A ideia do projeto é uma ferramenta que auxilie o estudante na hora de fazer aquela prova ou até mesmo ficar craque em algum assunto e nada melhor para treinar do que o bom e velho exercicio.
+A ideia do projeto é uma ferramenta que auxilie o estudante na hora de fazer aquela prova ou até mesmo ficar craque em algum assunto e nada melhor para treinar do que o bom e velho exercício.
 
 É ae que o Estudi-IA se destaca, com ela você pode criar exercícios  de praticamente qualquer matéria, apenas com algumas configurações e você já tem uma lista de exercícios  prontinha para você estudar.
 
